@@ -1,7 +1,8 @@
 # yan-san
-Complementary app for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_Learn_Japanese) study course.
+Study materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_Learn_Japanese) course.
 
-**STATUS**: Planning Stage
+[![License][license-image]][license-url]
+[![Status][status-image]][status-url]
 
 ## Lessons
 
@@ -66,3 +67,8 @@ Complementary app for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/L
 | 24 | I've never traveled abroad before
 | 25 | Give it to him when he's come down
 | 26 | If you're ever in Japan again please stop by
+
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-url]: https://github.com/njncalub/yan-san/blob/master/LICENSE
+[status-image]: https://img.shields.io/badge/status-planning-lightgrey.svg
+[status-url]: https://github.com/njncalub/yan-san
