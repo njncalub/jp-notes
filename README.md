@@ -9,6 +9,10 @@ Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_L
 [status-image]: https://img.shields.io/badge/status-planning-lightgrey.svg
 [status-url]: https://github.com/njncalub/yan-san
 
+## Contributing
+
+This project is far from being finished and we need your help. Feel free to submit pull requests if you find any errors. Thank you!
+
 ## Lessons
 
 ### Let's Learn Japanese Basic I
@@ -72,7 +76,3 @@ Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_L
 | 24 | I've never traveled abroad before.
 | 25 | Give it to him when he's come down.
 | 26 | If you're ever in Japan again please stop by.
-
-## Contributing
-
-We need your help. Please feel free to submit pull requests if you find any errors. Thank you!
