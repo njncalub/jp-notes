@@ -4,6 +4,11 @@ Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_L
 [![License][license-image]][license-url]
 [![Status][status-image]][status-url]
 
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-url]: https://github.com/njncalub/yan-san/blob/master/LICENSE
+[status-image]: https://img.shields.io/badge/status-planning-lightgrey.svg
+[status-url]: https://github.com/njncalub/yan-san
+
 ## Lessons
 
 ### Let's Learn Japanese Basic I
@@ -68,7 +73,6 @@ Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_L
 | 25 | Give it to him when he's come down.
 | 26 | If you're ever in Japan again please stop by.
 
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-url]: https://github.com/njncalub/yan-san/blob/master/LICENSE
-[status-image]: https://img.shields.io/badge/status-planning-lightgrey.svg
-[status-url]: https://github.com/njncalub/yan-san
+## Contributing
+
+We need your help. Please feel free to submit pull requests if you find any errors. Thank you!
