@@ -11,7 +11,7 @@ Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_L
 
 ## Contributing
 
-This project is far from being finished and we need your help. Feel free to submit pull requests if you find any errors. Thank you!
+We need your help in contributing. Feel free to submit pull requests if you find any errors. Thank you!
 
 ## Lessons
 
