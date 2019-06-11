@@ -19,7 +19,7 @@ We need your help in contributing. Feel free to submit pull requests if you find
 
 | #  | Title
 | -- | -----
-| 01 | [I'm Yan.](/transcripts/01.md)
+| 01 | I'm Yan.
 | 02 | What's that?
 | 03 | There's a cat.
 | 04 | Where is it?
