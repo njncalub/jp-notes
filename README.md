@@ -1,13 +1,13 @@
 # yan-san
-Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_Learn_Japanese) course.
-
 [![License][license-image]][license-url]
 [![Status][status-image]][status-url]
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: https://github.com/njncalub/yan-san/blob/master/LICENSE
-[status-image]: https://img.shields.io/badge/status-planning-lightgrey.svg
+[status-image]: https://img.shields.io/badge/status-ongoing-darkgreen.svg
 [status-url]: https://github.com/njncalub/yan-san
+
+Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_Learn_Japanese) course.
 
 ## Contributing
 
