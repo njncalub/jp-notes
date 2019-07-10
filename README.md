@@ -4,7 +4,7 @@
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: https://github.com/njncalub/jp-notes/blob/master/LICENSE
 
-My notes for learning Japanese.
+My collection of notes for learning Japanese.
 
 ## Taken from the following
 
