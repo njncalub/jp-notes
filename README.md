@@ -1,19 +1,17 @@
 # yan-san
 [![License][license-image]][license-url]
-[![Status][status-image]][status-url]
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-url]: https://github.com/njncalub/yan-san/blob/master/LICENSE
-[status-image]: https://img.shields.io/badge/status-ongoing-darkgreen.svg
-[status-url]: https://github.com/njncalub/yan-san
+[license-url]: https://github.com/njncalub/jp-notes/blob/master/LICENSE
 
-Materials for the [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_Learn_Japanese) course.
+My notes for learning Japanese.
 
-## Contributing
+## Taken from the following
 
-We need your help in contributing. Feel free to submit pull requests if you find any errors. Thank you!
+* [Let's Learn Japanese](https://en.wikipedia.org/wiki/Let%27s_Learn_Japanese) course
+* [Duolingo's Learn Japanese](https://www.duolingo.com/course/ja/en/Learn-Japanese) course
 
-## Lessons
+## Let's Learn Japanese
 
 ### Let's Learn Japanese Basic I
 
